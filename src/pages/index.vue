@@ -28,19 +28,54 @@
 				TG @mmioe [without target && rel]
 			</a>
 		</p>
-		<hr>
+
+		<div
+			class="self-stretch h-[1px] bg-current"
+		/>
+
 		<p>
 			<a
-				href="https://t.me/tiktokredirecttest"
+				href="
+			https:
+			t.me
+			tiktokredirecttest"
 				rel="noreferrer noopener"
 				target="_blank"
 			>
-				TG CHANNEL [with target && rel]
+				TG MY CHANNEL [with target && rel]
 			</a>
 		</p>
 		<p>
 			<a href="https://t.me/tiktokredirecttest">
-				TG CHANNEL [without target && rel]
+				TG MY CHANNEL [without target && rel]
+			</a>
+		</p>
+		<p>
+			<a
+				href="https://t.me/Romancev768"
+				rel="noreferrer noopener"
+				target="_blank"
+			>
+				TG Romancev768 CHANNEL [with target && rel]
+			</a>
+		</p>
+		<p>
+			<a href="https://t.me/Romancev768">
+				TG Romancev768 CHANNEL [without target && rel]
+			</a>
+		</p>
+		<p>
+			<a
+				href="https://t.me/Procked"
+				rel="noreferrer noopener"
+				target="_blank"
+			>
+				TG Procked CHANNEL [with target && rel]
+			</a>
+		</p>
+		<p>
+			<a href="https://t.me/Procked">
+				TG Procked CHANNEL [without target && rel]
 			</a>
 		</p>
 	</section>
