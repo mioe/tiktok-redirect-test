@@ -1,13 +1,32 @@
-<script setup lang="ts">
-import HelloWorld from '~/components/HelloWorld.vue'
-</script>
-
 <template>
-	<h1>index.vue</h1>
-	<HelloWorld
-		world="world"
-	/>
-	<button>Hello, World!</button>
-	<div class="i-mi:deno w-[48px] h-[48px]" />
-	<div class="i-mi:fastify w-[48px] h-[48px] c-red-600" />
+	<section class="flex flex-col gap-[24px]">
+		<p>
+			<a
+				href="https://t.me/%2B79996926730"
+				rel="noreferrer noopener"
+				target="_blank"
+			>
+				TG +79996926730 [with target && rel]
+			</a>
+		</p>
+		<p>
+			<a
+				href="https://t.me/mmioe"
+				rel="noreferrer noopener"
+				target="_blank"
+			>
+				TG @mmioe [with target && rel]
+			</a>
+		</p>
+		<p>
+			<a href="https://t.me/%2B79996926730">
+				TG +79996926730 [without target && rel]
+			</a>
+		</p>
+		<p>
+			<a href="https://t.me/mmioe">
+				TG @mmioe [without target && rel]
+			</a>
+		</p>
+	</section>
 </template>
