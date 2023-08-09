@@ -1,5 +1,6 @@
 <template>
 	<section class="flex flex-col gap-[24px]">
+		<p>spa:</p>
 		<p>
 			<a
 				href="https://t.me/%2B79996926730"
