@@ -35,7 +35,7 @@
 
 		<p>
 			<a
-				href="https//:t.me/tiktokredirecttest"
+				href="https://t.me/tiktokredirecttest"
 				rel="noreferrer noopener"
 				target="_blank"
 			>
