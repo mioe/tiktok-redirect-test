@@ -28,5 +28,20 @@
 				TG @mmioe [without target && rel]
 			</a>
 		</p>
+		<hr>
+		<p>
+			<a
+				href="https://t.me/tiktokredirecttest"
+				rel="noreferrer noopener"
+				target="_blank"
+			>
+				TG CHANNEL [with target && rel]
+			</a>
+		</p>
+		<p>
+			<a href="https://t.me/tiktokredirecttest">
+				TG CHANNEL [without target && rel]
+			</a>
+		</p>
 	</section>
 </template>
